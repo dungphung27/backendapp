@@ -10,7 +10,8 @@
 
 # production
 /build
-
+src/provider/sendMessage.js
+src/provider/sendSMS.js
 # misc
 .DS_Store
 .env.local
